@@ -11,3 +11,4 @@
 # git pull  #pull files from remote to local
 # git merge  <branch to be merged with current branch>
 
+#commit or add first ? 
